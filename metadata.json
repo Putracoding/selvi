@@ -1,0 +1,6 @@
+{
+  "name": "Selvi Ayu Photobooth",
+  "description": "Premium online photobooth booking and customization platform by Selvi Ayu. Customize designs, select virtual props, and book online.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
